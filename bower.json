@@ -1,0 +1,31 @@
+{
+  "name": "apparkcar",
+  "version": "2.0.0",
+  "description": "apparkcar website",
+  "main": "index.html",
+  "authors": [
+    "Alejandro Asensio"
+  ],
+  "license": "UNLICENSED",
+  "keywords": [
+    "apparkcar",
+    "parking",
+    "aparcar",
+    "aparcamiento",
+    "app",
+    "garaje"
+  ],
+  "homepage": "http://apparkcar.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.6.3"
+  }
+}
