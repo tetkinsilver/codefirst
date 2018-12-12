@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: /img/*
-Disallow: /googlebd610fd115807f13.html
-Disallow: /googlef00345ffd7cbe79d.html
-Disallow: /Acumbamail_39580f62-7509-11e6-9e38-0050569a455d.html
-Disallow: /blog/*
